@@ -83,6 +83,22 @@
         <mxCell id="Ul_6RHFBqRUCSH85dnKk-53" value="Déplace&lt;div&gt;pion&lt;/div&gt;&lt;div&gt;noir&lt;/div&gt;" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="565" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-57" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="590" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-58" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;" edge="1" target="Ul_6RHFBqRUCSH85dnKk-57" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-59" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;" edge="1" source="Ul_6RHFBqRUCSH85dnKk-57" parent="1" target="Ul_6RHFBqRUCSH85dnKk-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-60" value="Echec et mat" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="740" y="570" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
