@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="Page-1" id="htie52m5lzx_B7DPwPxJ">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fa6800;strokeColor=default;shadow=0;" edge="1" parent="1" source="Ul_6RHFBqRUCSH85dnKk-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-2" value="" style="ellipse;html=1;shape=endState;fillColor=#fa6800;strokeColor=default;rounded=1;fontColor=#000000;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fa6800;strokeColor=default;shadow=0;" edge="1" parent="1" source="Ul_6RHFBqRUCSH85dnKk-11" target="Ul_6RHFBqRUCSH85dnKk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="Ul_6RHFBqRUCSH85dnKk-11" target="Ul_6RHFBqRUCSH85dnKk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-11" value="Person&amp;nbsp;&lt;div&gt;Sort&lt;/div&gt;&lt;div&gt;Ecole&lt;/div&gt;" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=default;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="55" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-16" value="va au chômage" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=default;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="55" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="Ul_6RHFBqRUCSH85dnKk-18" target="Ul_6RHFBqRUCSH85dnKk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-18" value="Où est embauchée&amp;nbsp;" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=default;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ul_6RHFBqRUCSH85dnKk-22" target="Ul_6RHFBqRUCSH85dnKk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-22" value="Est licencié" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=default;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ul_6RHFBqRUCSH85dnKk-33" target="Ul_6RHFBqRUCSH85dnKk-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-33" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-34" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;exitX=0.564;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="Ul_6RHFBqRUCSH85dnKk-33" parent="1" source="Ul_6RHFBqRUCSH85dnKk-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-35" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;entryX=0.207;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="Ul_6RHFBqRUCSH85dnKk-33" parent="1" target="Ul_6RHFBqRUCSH85dnKk-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ul_6RHFBqRUCSH85dnKk-37" value="Prend retraite&lt;div&gt;67 ans&lt;/div&gt;" style="shape=umlState;rounded=1;verticalAlign=top;spacingTop=5;umlStateSymbol=collapseState;absoluteArcSize=1;arcSize=10;html=1;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
